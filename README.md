@@ -21,4 +21,21 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## Contact me
+
+<p>
+  
+  <a href="www.linkedin.com/in/zohaib-azam-55212a1b2">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://mail.google.com/mail/u/?authuser=user@gmail.com/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/zohaibazam.332/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  	
+  
+</p>
+
 
