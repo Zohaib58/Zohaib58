@@ -28,7 +28,7 @@ No Activity tracked this Week
 
 <p>
   
-  <a href="www.linkedin.com/in/zohaib-azam-55212a1b2">
+  <a href="https://www.linkedin.com/in/zohaib-azam-55212a1b2">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a href="https://mail.google.com/mail/u/?authuser=user@gmail.com/">
