@@ -41,9 +41,6 @@ No Activity tracked this Week
   
 </p>
 
-[![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zohaib58)](https://github.com/Zohaib58/github-readme-stats)
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zohaib58&count_private=true)
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zohaib58&show_icons=true)
 
 
 
