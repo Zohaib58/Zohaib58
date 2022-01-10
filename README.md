@@ -44,3 +44,4 @@ No Activity tracked this Week
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib58]
