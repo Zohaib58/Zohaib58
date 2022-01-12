@@ -43,4 +43,5 @@ No Activity tracked this Week
 
 
 
-<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib58" />
+<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib58&hide=jupyter notebook" />
+
